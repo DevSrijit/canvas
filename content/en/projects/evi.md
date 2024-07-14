@@ -1,6 +1,6 @@
 ---
 name: EVI
-release: 2024
+release: Coming soon...
 image: /projects/evi.webp
 link: https://evi.srijit.co
 layout: project
