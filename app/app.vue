@@ -35,10 +35,10 @@ useHead({
 })
 
 useSeoMeta({
-  author: 'Hugo Richard',
+  author: 'Srijit Ghosh',
   ogType: 'website',
   ogTitle: appConfig.appName,
-  ogSiteName: 'Canvas',
+  ogSiteName: 'Srijit's Personal Website',
   ogUrl: () => runtimeConfig.public.siteUrl,
   ogLocale: () => locale.value,
   twitterTitle: appConfig.appName,
