@@ -1,8 +1,8 @@
 ---
-name: Helpr
-release: 2023
-image: /projects/helpr.webp
-link: https://helpr.tech/
+name: Moksha
+release: 2024
+image: /projects/moksha.webp
+link: https://moskha.srijit.co/
 featured: true
 layout: project
 ---

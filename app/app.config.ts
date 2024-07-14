@@ -1,5 +1,5 @@
 export default defineAppConfig({
-  appName: 'Srijit&apos;s Personal Website ',
+  appName: 'Srijits Personal Website ',
   appDescription: 'Canvas is a simple but beautiful portfolio template for designers and developers built with Nuxt and Tailwind CSS. Made with ❤️ by HugoRCD',
   profilePicture: '/assets/srijit.webp',
   footerName: 'Srijit Ghosh',
@@ -15,7 +15,7 @@ export default defineAppConfig({
     spotify: 'https://open.spotify.com/user/31x7pj57ad5xav7b47q5mk6mctwu',
   },
   ui: {
-    primary: 'emerald',
+    primary: 'pink',
     gray: 'zinc',
     notifications: {
       position: 'top-0 bottom-auto',

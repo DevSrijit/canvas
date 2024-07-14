@@ -1,8 +1,8 @@
 ---
-name: Mockline
-release: Coming soon...
-image: /projects/mockline.webp
-link: https://mockline.dev/
+name: Poetic Echoes
+release: 2023
+image: /projects/poetic-echoes.webp
+link: https://poeticechoes.srijit.co/
 featured: true
 layout: project
 ---

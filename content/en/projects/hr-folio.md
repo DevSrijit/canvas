@@ -1,8 +1,8 @@
 ---
-name: HR Folio
-release: 2024
-image: /projects/hr-folio.webp
-link: https://hrcd.fr/
+name: CodeDay Kolkata
+release: 2023
+image: /projects/cdk.webp
+link: https://cdkol.live/
 featured: true
 layout: project
 ---

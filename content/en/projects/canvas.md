@@ -1,7 +1,7 @@
 ---
-name: Canvas
-release: 2023
-image: /projects/canvas.webp
-link: https://canvas.hrcd.fr/
+name: EVI
+release: 2024
+image: /projects/evi.webp
+link: https://evi.srijit.co
 layout: project
 ---

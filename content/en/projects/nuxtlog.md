@@ -1,7 +1,7 @@
 ---
-name: Nuxtlog
+name: Blogs by Srijit
 release: 2023
-image: /projects/nuxtlog.webp
-link: https://nuxtlog.hrcd.fr/
+image: /projects/blog.webp
+link: https://blog.srijit.co/
 layout: project
 ---

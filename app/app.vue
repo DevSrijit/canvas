@@ -38,7 +38,7 @@ useSeoMeta({
   author: 'Srijit Ghosh',
   ogType: 'website',
   ogTitle: appConfig.appName,
-  ogSiteName: 'Srijit's Personal Website',
+  ogSiteName: 'Srijit&apos;s Personal Website',
   ogUrl: () => runtimeConfig.public.siteUrl,
   ogLocale: () => locale.value,
   twitterTitle: appConfig.appName,
