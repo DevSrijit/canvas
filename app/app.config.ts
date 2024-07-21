@@ -15,7 +15,7 @@ export default defineAppConfig({
     spotify: 'https://open.spotify.com/user/31x7pj57ad5xav7b47q5mk6mctwu',
   },
   ui: {
-    primary: 'pink',
+    primary: 'emerald',
     gray: 'zinc',
     notifications: {
       position: 'top-0 bottom-auto',
