@@ -6,14 +6,7 @@ export default defineNuxtConfig({
   app: {
     head: {
       viewport: 'width=device-width, initial-scale=1',
-      charset: 'utf-8',
-      script: [
-        {
-          'src': 'https://analytics.hrcd.fr/js/script.js',
-          'defer': true,
-          'data-domain': 'canvas.hrcd.fr',
-        },
-      ],
+      charset: 'utf-8'
     },
     pageTransition: {
       name: 'fade',
@@ -26,11 +19,11 @@ export default defineNuxtConfig({
   },
 
   site: {
-    url: process.env.NUXT_SITE_URL || 'https://canvas.hrcd.fr',
+    url: process.env.NUXT_SITE_URL || 'https://srijit.co',
     identity: {
       type: 'Person',
     },
-    twitter: '@HugoRCD__',
+    twitter: '@cheeseblock011',
   },
 
   css: ['~/assets/style/main.css'],
@@ -98,7 +91,7 @@ export default defineNuxtConfig({
       redirectOn: 'root',
     },
     baseUrl: '/',
-    locales: ['en', 'fr'],
+    locales: ['en'],
     defaultLocale: 'en',
     vueI18n: '~/i18n.config.ts',
   },
@@ -125,7 +118,7 @@ export default defineNuxtConfig({
     markdown: {
       anchorLinks: false,
     },
-    locales: ['en', 'fr'],
+    locales: ['en'],
     defaultLocale: 'en',
   },
 

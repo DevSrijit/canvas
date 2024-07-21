@@ -1,29 +1,14 @@
 {
   "items": [
     {
-      "name": "Nuxt",
-      "link": "https://nuxt.com/",
-      "logo": "SvgoNuxtColor"
+      "name": "Arc",
+      "link": "https://arc.net/",
+      "logo": "SvgoArcColor"
     },
     {
-      "name": "Vue",
-      "link": "https://vuejs.org/",
-      "logo": "SvgoVueColor"
-    },
-    {
-      "name": "Nest",
-      "link": "https://nestjs.com/",
-      "logo": "SvgoNestColor"
-    },
-    {
-      "name": "TailwindCSS",
-      "link": "https://tailwindcss.com/",
-      "logo": "SvgoTailwindColor"
-    },
-    {
-      "name": "Prisma",
-      "link": "https://www.prisma.io/",
-      "logo": "SvgoPrismaColor"
+      "name": "Next.js",
+      "link": "https://nextjs.org/",
+      "logo": "SvgoNext"
     },
     {
       "name": "Vercel",
@@ -31,19 +16,29 @@
       "logo": "SvgoVercel"
     },
     {
-      "name": "Linear",
-      "link": "https://linear.app/",
-      "logo": "SvgoLinearColor"
+      "name": "Github",
+      "link": "https://github.com",
+      "logo": "SvgoGithub"
     },
     {
-      "name": "Arc",
-      "link": "https://arc.net/",
-      "logo": "SvgoArcColor"
+      "name": "Instagram",
+      "link": "https://instagram.com/",
+      "logo": "SvgoInstagramColor"
     },
     {
-      "name": "Raycast",
-      "link": "https://raycast.com/",
-      "logo": "SvgoRaycastColor"
+      "name": "Spotify",
+      "link": "https://spotify.com/",
+      "logo": "SvgoSpotifyColor"
+    },
+    {
+      "name": "CloudFlare Warp",
+      "link": "https://one.one.one.one/",
+      "logo": "SvgoWarp"
+    },
+    {
+      "name": "TailwindCSS",
+      "link": "https://tailwindcss.com/",
+      "logo": "SvgoTailwindColor"
     },
     {
       "name": "Notion",
@@ -51,44 +46,19 @@
       "logo": "SvgoNotionColor"
     },
     {
-      "name": "Cron",
-      "link": "https://calendar.cron.com/",
-      "logo": "SvgoCronColor"
-    },
-    {
-      "name": "Spark",
-      "link": "https://sparkmailapp.com/",
-      "logo": "SvgoSparkColor"
-    },
-    {
       "name": "1Password",
       "link": "https://1password.com/",
       "logo": "SvgoOnepasswordColor"
     },
     {
-      "name": "Fig",
-      "link": "https://fig.io/",
-      "logo": "SvgoFigColor"
+      "name": "ChatGPT",
+      "link": "https://chat.openai.com/",
+      "logo": "SvgoOpenai"
     },
     {
       "name": "Figma",
-      "link": "https://www.figma.com/",
+      "link": "https://figma.com/",
       "logo": "SvgoFigmaColor"
-    },
-    {
-      "name": "Photoshop",
-      "link": "https://www.adobe.com/products/photoshop.html",
-      "logo": "SvgoPhotoshopColor"
-    },
-    {
-      "name": "Illustrator",
-      "link": "https://www.adobe.com/products/illustrator.html",
-      "logo": "SvgoIllustratorColor"
-    },
-    {
-      "name": "Lightroom",
-      "link": "https://www.adobe.com/products/photoshop-lightroom.html",
-      "logo": "SvgoLightroomColor"
     }
   ]
 }
