@@ -2,7 +2,7 @@
 name: Moksha
 release: 2024
 image: /projects/moksha.webp
-link: https://moskha.srijit.co/
+link: https://moksha.srijit.co/
 featured: true
 layout: project
 ---
