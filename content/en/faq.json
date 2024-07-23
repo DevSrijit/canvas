@@ -3,49 +3,44 @@
   "subtitle": "Things I get asked a lot",
   "faqQuestions": [
     {
-      "title": "Services",
-      "questions": [
-        {
-          "title": "What services do you offer?",
-          "answer": "I offer a range of services including web design, web development, branding, and photography. I can also help with SEO and social media marketing."
-        },
-        {
-          "title": "Can you teach me how to make a website?",
-          "answer": "I don't offer courses at the moment, but I can recommend resources and advice to help you get the most out of your learning."
-        }
-      ]
-    },
-    {
-      "title": "Pricing",
-      "questions": [
-        {
-          "title": "How much does a project cost?",
-          "answer": "The cost of a project depends on many factors, such as the size of the project, the features, the development time, etc. The initial amount of my web services starts at 2000€, with an average between 3000€ and 10000€. For any other design or consulting service, I usually charge 450€ per day."
-        },
-        {
-          "title": "How does payment work for a project?",
-          "answer": "I ask for a 40% deposit before starting a project, and the remaining 60% after successful delivery. I accept payments by bank transfer, PayPal, etc..."
-        },
-        {
-          "title": "How long does a project take?",
-          "answer": "It's difficult to give an exact estimate, as each project is different, but the majority of my past work has taken between 2 weeks and 2 months."
-        },
-        {
-          "title": "Do you offer discounts?",
-          "answer": "I offer a 15% discount for students and non-profit organizations."
-        }
-      ]
-    },
-    {
       "title": "Personal",
       "questions": [
         {
-          "title": "What do you enjoy most about this work?",
-          "answer": "I love learning new things and being able to create just about anything from scratch, creating beautiful things that people will use and appreciate."
+          "title": "What are your favorite TV shows ?",
+          "answer": "I'm a good sponge for Netflix. My all time favorites must be Stranger Things, Money Heist, Cobra Kai, Sabrina, and many more. I am still a huge fan of Stranger Things and I can't wait for the next season."
         },
         {
-          "title": "Hobbies outside of work?",
-          "answer": "I love what I do, so I usually spend a lot of time working on personal projects, photography, etc. I'm also a big sports fan. I often go to the gym and I recently started climbing!"
+          "title": "What are your favorite hobbies ?",
+          "answer": "I love to listen to music, watch movies, get some knowledge from YouTube."
+        },
+        {
+          "title": "What are your favorite books ?",
+          "answer": "I don't usually read books, but I love to read articles and watch documentaries. History and Science interest me a great deal. I am still heavily interested in the history of the world wars. The story of Chernobyl and Fukushima is something I am very interested in. I could probably explain the whole event in 2 hours."
+        },
+        {
+          "title": "What are your favorite games ?",
+          "answer": "My absolute favorite games are Spiderman Remastered and Spiderman Miles Morales. I am a huge fan of the Spiderman series. My second favorite would be Detroit: Become Human. I also love the COD franchise."
+        },
+        {
+          "title": "What are your favorite movies ?",
+          "answer": "Ah, tough one. It'd probably be something from Christopher Nolan. I love Inception, Interstellar, Oppenheimer and Dunkirk. I watch a great deal of movies, some of which are just random, while some are critically acclaimed. I love to watch movies that make me think about the world and the universe. "
+        },
+        {
+          "title": "Where can I find you ?",
+          "answer": "You would usually find me in Hack Club Slack, Discord, or Instagram. I am very active on these platforms."
+        }
+      ]
+    },
+    {
+      "title": "Technical",
+      "questions": [
+        {
+          "title": "What's your favorite tech stack ?",
+          "answer": "I love to work with React, Next.js, and Tailwind CSS. I am also a huge fan of Vercel. I love to work with these technologies because they are very easy to use and they are very powerful."
+        },
+        {
+          "title": "Do you freelance ?",
+          "answer": "Yeah, I do freelance. I have worked with clients in the past and I am always looking for new opportunities. If you have a project in mind, feel free to reach out to me."
         }
       ]
     }
