@@ -6,7 +6,7 @@ export default defineAppConfig({
   email: 'mail@srijit.co',
   twitterUsername: '@cheeseblock011',
   phone: '(+91) 94 77 03 78 96`',
-  openGraphImage: 'https://canvas.hrcd.fr/social-preview.jpg',
+  openGraphImage: 'https://cloud-fx6bgjeux-hack-club-bot.vercel.app/0portfolio.png',
   socials: {
     github: 'https://github.com/DevSrijit',
     twitter: 'https://twitter.com/cheeseblock011',
