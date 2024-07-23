@@ -1,11 +1,11 @@
 export default defineAppConfig({
-  appName: 'Srijits Personal Website ',
-  appDescription: 'Canvas is a simple but beautiful portfolio template for designers and developers built with Nuxt and Tailwind CSS. Made with ❤️ by HugoRCD',
+  appName: 'Srijit\'s Personal Website ',
+  appDescription: 'This is Srijit Ghosh\'s personal website. Srijit is a student, developer, and designer. He loves to build things that make a difference.',
   profilePicture: '/assets/srijit.webp',
   footerName: 'Srijit Ghosh',
   email: 'mail@srijit.co',
   twitterUsername: '@cheeseblock011',
-  phone: '(+91) 94 77 03 78 96`',
+  phone: '(+91) 94 77 03 78 96',
   openGraphImage: 'https://cloud-fx6bgjeux-hack-club-bot.vercel.app/0portfolio.png',
   socials: {
     github: 'https://github.com/DevSrijit',
