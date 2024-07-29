@@ -1,5 +1,5 @@
 export default defineAppConfig({
-  appName: 'Srijit\'s Personal Website ',
+  appName: 'Srijit\'s Personal Website',
   appDescription: 'This is Srijit Ghosh\'s personal website. Srijit is a student, developer, and designer. He loves to build things that make a difference.',
   profilePicture: '/assets/srijit.webp',
   footerName: 'Srijit Ghosh',
