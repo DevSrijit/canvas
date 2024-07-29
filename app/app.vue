@@ -36,9 +36,12 @@ useHead({
 
 useSeoMeta({
   author: 'Srijit Ghosh',
+  description: 'This is Srijit Ghosh\'s personal website. Srijit is a student, developer, and designer. He loves to build things that make a difference.',
   ogType: 'website',
   ogTitle: appConfig.appName,
   ogSiteName: 'Srijit&apos;s Personal Website',
+  ogDescription: 'This is Srijit Ghosh\'s personal website. Srijit is a student, developer, and designer. He loves to build things that make a difference.',
+  twitterDescription: 'This is Srijit Ghosh\'s personal website. Srijit is a student, developer, and designer. He loves to build things that make a difference.',
   ogUrl: () => runtimeConfig.public.siteUrl,
   ogLocale: () => locale.value,
   twitterTitle: appConfig.appName,
